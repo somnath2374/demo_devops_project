@@ -1,1 +1,0 @@
-# demo_devops_project
